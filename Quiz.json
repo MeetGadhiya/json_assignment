@@ -1,0 +1,28 @@
+Quiz={
+    "quiz":[ 
+      {
+       "page":"1",
+       "question":"which is our national bird?",
+       "type":"text",
+       "choice":null
+     },
+     {
+      "page":"2",
+       "question":"Which is our national fruit?",
+       "type":"radio",
+       "choices":["Mango","Banana","Apple","Orange"]
+     },
+     {
+      "page":"3",
+       "question":"Which is your favourite game?",
+       "type":"checkbox",
+       "choices":["Cricket","Hockey","Kabaddi","Kho-kho"]
+     },
+     {
+      "page":"4",
+       "question":"Select your favourite color?",
+       "type":"dropdown",
+       "choices":["Red","Orange","Black","Yellow"]
+     }
+     ]
+ }
